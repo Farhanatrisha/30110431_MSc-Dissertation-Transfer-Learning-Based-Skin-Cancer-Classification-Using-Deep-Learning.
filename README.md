@@ -5,6 +5,8 @@ As one of the most prevalent and prodigious health concerns worldwide, skin canc
 Dataset: [https://universityofsouthwales-
 my.sharepoint.com/:f:/g/personal/30110431_students_southwales_ac_uk/EmIe 1qeru31Dp6SRUlrEhzQBuSf6eXf79FsNrHiEpXX6WQ?e=e2WDau
 ](https://universityofsouthwales-my.sharepoint.com/:f:/g/personal/30110431_students_southwales_ac_uk/EvCuxV4HeoJGgW3QsJF8nekBAzIPgECJcjWJtSv-aMjk4A?e=VnHtgV)
+
+
 Requirements:
 -	Python 3.7.12
 -	TensorFlow 2.11.0
