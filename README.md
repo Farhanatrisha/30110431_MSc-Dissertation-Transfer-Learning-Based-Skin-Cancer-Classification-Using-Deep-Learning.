@@ -1,5 +1,5 @@
 Transfer Learning-Based Skin Cancer Classification Using Deep Learning.
-As one of the most prevalent and prodigious health concerns worldwide, skin cancer requires early detection through dermoscopic images, which can vastly improve patient outcomes. Analysis and evaluation of skin lesions manually is an exhausting and erroneous occupation that necessitates a high calibre of trained dermatologists to notice the minutest details within those images. This research is aimed at investigating the performance of several deep-learning models in terms of classification provided by applying the previously mentioned models to the ISIC 2019 dataset for a diverse range of skin lesion types.
+This research proposes a deep transfer learning framework aimed at classifying skin cancer from dermoscopic images. The goal is to develop a robust, high-performance system that leverages pre-trained deep learning models to enhance the accuracy and efficiency of skin cancer detection. This approach reduces the need for large amounts of labeled data while improving model performance on smaller datasets typical in dermatology.
 
 
 Dataset: [https://universityofsouthwales-
